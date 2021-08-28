@@ -36,3 +36,5 @@ console.log(search.binarySearch([1,2,3,5],5))   // 3
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Sponsor this project
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/pduser/)
