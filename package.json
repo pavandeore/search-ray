@@ -1,0 +1,25 @@
+{
+  "name": "search-ray",
+  "version": "1.0.0",
+  "description": "searching algorithms for arrays ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavandeore/search-ray.git"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms",
+    "search",
+    "algorithm"
+  ],
+  "author": "pawan deore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavandeore/search-ray/issues"
+  },
+  "homepage": "https://github.com/pavandeore/search-ray#readme"
+}
