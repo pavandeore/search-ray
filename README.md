@@ -1,10 +1,10 @@
 # search-ray
 
-search-ray is javascript library to search for item in array and it will return index of the found IDBCursorWithValue.
+search-ray is javascript library to search for item in array and it will return index of the found element.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager npm to install search-ray.
 
 ```bash
 npm install search-ray
